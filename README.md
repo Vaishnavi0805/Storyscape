@@ -1,6 +1,10 @@
 ## 📖 StoryScape 🚀
 StoryScape is an AI-powered app designed to spark the imagination of children by generating captivating story videos based on user prompts. With StoryScape, the possibilities for storytelling are endless! 🌟
 
+## 📹 Watch the Demo
+
+## [![Watch the Demo](img1.png)](https://storage.googleapis.com/lablab-video-submissions/cliympw6e0000356ome1c6x4o%2Fraw%2Fsubmission-video-x-cliympw6e0000356ome1c6x4o-cljmwzjkc00vp3b6ngpmlvykd.mp4)
+
 ## How to Use 🛠️
 Follow these steps to set up and use StoryScape:
 
